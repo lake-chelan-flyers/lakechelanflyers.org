@@ -1,0 +1,34 @@
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+<script>
+// The greedy-nav plugin (bundled in main.min.js) moves nav items into the hamburger menu
+// one at a time as the window narrows, creating an awkward intermediate state where some
+// items are visible and others are hidden. This script enforces all-or-nothing behavior:
+// either all items display inline, or all items go behind the hamburger.
+$(function() {
+  var $btn = $("nav.greedy-nav .greedy-nav__toggle");
+  var $vlinks = $("nav.greedy-nav .visible-links");
+  var $hlinks = $("nav.greedy-nav .hidden-links");
+
+  function enforceAllOrNothing() {
+    // If the toggle button is visible, greedy-nav has already determined that not all
+    // items fit. Move any remaining visible items into the hidden list so that the
+    // hamburger menu contains everything rather than just the overflow.
+    if (!$btn.hasClass("hidden")) {
+      while ($vlinks.children().length > 0) {
+        $vlinks.children().last().prependTo($hlinks);
+      }
+      $btn.attr("count", $hlinks.children().length);
+    }
+    // When all items fit, greedy-nav sets the hidden class on the button itself and
+    // has already moved everything back into visible-links, so no action is needed.
+  }
+
+  // Run after each resize — greedy-nav's own resize handler fires first (registered
+  // earlier from main.min.js), so by the time this runs the DOM is already stable.
+  $(window).on("resize", enforceAllOrNothing);
+
+  // Also correct the initial state on page load. setTimeout defers until after
+  // greedy-nav's $(function(){}) has finished its first check() call.
+  setTimeout(enforceAllOrNothing, 0);
+});
+</script>
