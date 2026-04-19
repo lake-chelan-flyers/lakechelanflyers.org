@@ -1,0 +1,15 @@
+---
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/air";
+@import "minimal-mistakes";
+
+.page__hero--overlay {
+  min-height: 100vh;
+}
+
+.site-logo + .site-title {
+  display: none;
+}

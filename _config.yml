@@ -1,5 +1,9 @@
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "air"
+logo: /assets/images/lcflyers-logo-911-768x768.png
+
+atom_feed:
+  hide: true
 
 plugins:
   - jekyll-feed
