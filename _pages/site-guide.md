@@ -2,6 +2,9 @@
 layout: single
 title: "Site Guide"
 permalink: /site-guide/
+header:
+  overlay_image: /assets/images/IMG_6810.jpg
+  overlay_filter: 0.25
 ---
 
 ## Chelan Butte Flying Site
