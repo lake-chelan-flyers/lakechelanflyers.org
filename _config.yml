@@ -1,3 +1,11 @@
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+
+title: lakechelanflyers.org
+github:
+  is_project_page: true
+  repository_name: lakechelanflyers.org
+  repository_url: https://github.com/lake-chelan-flyers/lakechelanflyers.org
+  owner_name: lake-chelan-flyers
+  owner_url: https://github.com/lake-chelan-flyers
