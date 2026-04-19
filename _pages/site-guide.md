@@ -4,9 +4,9 @@ title: "Site Guide"
 permalink: /site-guide/
 ---
 
-## Overview
-
 Last Revision: January 5, 2025
+
+## Overview
 
 Chelan Butte is a world-renowned freeflight site and has a long history of hosting national competitions. Experienced cross-country pilots enjoy the varied terrain: flatlands to the south and east, mountains to the north and west. Chelan can offer a quick winter sled ride, a short XC flight up the lake to Manson, an epic flight to Idaho, and everything in between.
 
