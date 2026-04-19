@@ -1,0 +1,13 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "News & Events"
+    url: /news/
+  - title: "Site Guide"
+    url: /site-guide/
+  - title: "Join the Club"
+    url: /join/
+  - title: "Donate"
+    url: /donate/
+  - title: "Contact"
+    url: /contact/

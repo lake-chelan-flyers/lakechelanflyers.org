@@ -1,11 +1,41 @@
-theme: jekyll-theme-slate
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "air"
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
-title: lakechelanflyers.org
-github:
-  is_project_page: true
-  repository_name: lakechelanflyers.org
-  repository_url: https://github.com/lake-chelan-flyers/lakechelanflyers.org
-  owner_name: lake-chelan-flyers
-  owner_url: https://github.com/lake-chelan-flyers
+title: "Lake Chelan Flyers"
+subtitle: "Chelan Butte Flying Site"
+description: "A USHPA hang gliding and paragliding club managing the Chelan Butte flying site in Washington State."
+url: "https://lakechelanflyers.org"
+
+# Author info
+author:
+  name: "Lake Chelan Flyers"
+  bio: "A Chapter club of the United States Hang Gliding and Paragliding Association (USHPA), managing the Chelan Butte flying site."
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: false
+  - scope:
+      path: "_pages"
+    values:
+      layout: single
+      author_profile: false
+
+# Navigation defined in _data/navigation.yml
