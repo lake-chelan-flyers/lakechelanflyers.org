@@ -4,7 +4,10 @@ title: "Contact"
 permalink: /contact/
 ---
 
-Get in touch with the Lake Chelan Flyers.
+To get in touch with Lake Chelan Flyers, use the form below. We are also active
+on [Telegram](https://t.me/+E4TXaye8vSszNWNh).
+
+We welcome questions and comments from pilots and community members alike.
 
 <form action="https://api.web3forms.com/submit" method="POST">
   <input type="hidden" name="access_key" value="975f6849-4d9c-4e3b-9cb1-56765c96931e">
