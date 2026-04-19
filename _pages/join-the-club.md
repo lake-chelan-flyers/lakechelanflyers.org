@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Join the Club"
-permalink: /join/
+permalink: /join-the-club/
 ---
 
 Become a member of the Lake Chelan Flyers and help support access to Chelan Butte.
