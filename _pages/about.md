@@ -7,6 +7,11 @@ header:
   overlay_filter: 0.3
 ---
 
-Lake Chelan Flyers is a Chapter club of the United States Hang Gliding and Paragliding Association (USHPA). We manage the Chelan Butte flying site and foster a community of pilots in the Pacific Northwest region.
+Lake Chelan Flyers (LCF) is a Chapter club of the United States Hang Gliding and
+Paragliding Association (USHPA) serving pilots in the Chelan area and the
+greater northwest.  LCF provides ongoing management of the Chelan Butte flying
+site, and serves as liaison between the flying community and the multiple land
+owning agencies and other parties involved.
 
-Our mission is to provide a fun, safe environment for hang glider and paraglider pilots of all skill levels, and to maintain access to one of the region's premier flying sites.
+The mission of LCF is to promote hang gliding and paragliding in the Lake Chelan
+area.
