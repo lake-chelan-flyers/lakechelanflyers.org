@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Lake Chelan Flyers"
-excerpt: "A USHPA hang gliding and paragliding club on the shores of Lake Chelan, Washington — home of the Chelan Butte flying site."
+excerpt: "Lake Chelan Flyers is a nonprofit chapter of the US Hang Gliding and Paragliding Association (USHPA) supporting paragliding and hang gliding on Chelan Butte"
 header:
   overlay_image: /assets/images/IMG_6810.jpg
   overlay_filter: 0.3
