@@ -4,6 +4,8 @@ title: "Join the Club"
 permalink: /join-the-club/
 ---
 
+![Paraglider flying at Chelan Butte](/assets/images/Chelan-Flying-scaled.jpg){: .align-right}
+
 Join the club in two easy steps:
 
 1. Fill out our [membership form](https://forms.gle/3j9c9kSSDVGbBoCe9).
