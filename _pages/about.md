@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: cover
 title: "About Lake Chelan Flyers"
 permalink: /about/
 header:

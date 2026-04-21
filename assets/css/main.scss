@@ -8,6 +8,12 @@
 
 .page__hero--overlay {
   min-height: 100vh;
+
+  p {
+    color: #fff;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    font-size: 1.125em;
+  }
 }
 
 .site-logo + .site-title {
