@@ -1,7 +1,9 @@
 ---
-layout: single
+layout: archive
 title: "News & Events"
 permalink: /news/
 ---
 
-Stay tuned for the latest club news, flying events, and community updates.
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}

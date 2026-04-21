@@ -33,10 +33,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: false
       share: false
-      show_date: false
+      show_date: true
   - scope:
       path: "_pages"
     values:
