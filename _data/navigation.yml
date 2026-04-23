@@ -5,6 +5,8 @@ main:
     url: /join-the-club/
   - title: "News & Events"
     url: /news/
+  - title: "Donate"
+    url: /donate/
   - title: "About"
     url: /about/
   - title: "Contact"
