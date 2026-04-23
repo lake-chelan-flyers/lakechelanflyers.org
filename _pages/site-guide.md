@@ -4,7 +4,7 @@ title: "Site Guide"
 permalink: /site-guide/
 ---
 
-Last Revision: January 5, 2025
+Last Revision: April 22, 2026
 
 ![Paraglider flying at Chelan Butte](/assets/images/Chelan-21.jpg)
 
@@ -26,6 +26,10 @@ Access to Chelan Butte by pilots is by agreement with WA DNR, and access to our 
 5.  Parked vehicles must display a Washington State Discover Pass (available online and at several local stores including Safeway).
 6.  Parked vehicles should not obstruct the upper loop road. Park on the gravel or mowed areas behind the launch area.
 7.  No motors. Our land use agreements are for unpowered flight. Please do not attempt to launch or land any powered ultralight vehicles at our LZs or launch sites.
+8.  Parakites (such as the Moustache) are prohibited at Chelan Butte. As of
+    early 2026, USHPA is working to address gaps in insurance coverage for
+    parakites. Until such time as those gaps are addressed, any parakite flights
+    at Chelan Butte jeopardize the site.
 
 ## Site Description
 
