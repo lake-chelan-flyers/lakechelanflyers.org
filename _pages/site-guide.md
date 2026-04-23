@@ -64,7 +64,7 @@ Pilots are expected to assess hazards for themselves. The following is a summary
 *   Winds are often strong in the late afternoon and evening.
 *   The closest landing zone is a 4.6:1 glide from launch. Spending too much altitude hoping for thermals can easily result in an out-landing. Pilots must consider this risk and be prepared to safely execute an out-landing if they are too low to make it back to an official LZ.
 
-![A dust devil wreaks havoc on assembled hang gliders](https://lakechelanflyers.org/wp-content/uploads/2022/06/dustdevil.jpg)
+![A dust devil wreaks havoc on assembled hang gliders](/assets/images/site-guide/dustdevil.jpg)
 
 A dust devil wreaks havoc on assembled hang gliders
 
@@ -116,7 +116,7 @@ Glide to LZ: ~5.0:1 (to Junkyard LZ).
 **Winds:** 0-15 mph; ideal 7; gust factor 10 (PG). 0-20 mph; ideal 10; gust factor 10 (HG).  
 **Notes:** Steeper slope, unobstructed launch. Best choice for light air and newer pilots.
 
-[![](https://lakechelanflyers.org/wp-content/uploads/2022/06/launches.png)](https://lakechelanflyers.org/wp-content/uploads/2022/06/launches.png)
+![Aerial view of Chelan Butte launches](/assets/images/site-guide/launches.png)
 
 ## Flying
 
@@ -136,7 +136,7 @@ Glide to LZ: ~5.0:1 (to Junkyard LZ).
 **Description:** Chelan Falls Park is a multi-use public park maintained by Chelan County PUD.  Pilots may not land at this LZ when there is conflicting activity. Prior to flying, check [the schedule](https://www.chelanpud.org/departments/parksRecreation/chelanBallfieldSchedule.html) and inspect the landing area.  In the event of conflicting activity at Chelan Falls Park, plan to land at Gorge Road (Junkyard) LZ. **Land only in the designated area south of the soccer field.** Fly your downwind leg to the east of the field, as shown in the image below. Land well clear of other park users. Do not land at Beebe Bridge Park across the river.  
 **Obstructions:** Narrow landing approach with water, trees, buildings. Large power lines to the north. Parking lot adjacent to south end of LZ.
 
-[![](https://lakechelanflyers.org/wp-content/uploads/2022/06/soccer-field.webp)](https://lakechelanflyers.org/wp-content/uploads/2022/06/soccer-field.webp)
+![Soccer field landing approach](/assets/images/site-guide/soccer-field.webp)
 
 ### Junkyard
 
@@ -152,7 +152,7 @@ Glide to LZ: ~5.0:1 (to Junkyard LZ).
 
 **Obstructions:** Power lines at E end of LZ.
 
-[![](https://lakechelanflyers.org/wp-content/uploads/2022/06/junkyard.png)](https://lakechelanflyers.org/wp-content/uploads/2022/06/junkyard.png)
+![Aerial view of junkyard LZ](/assets/images/site-guide/junkyard.png)
 
 ### Lone Pine (Closed)
 
