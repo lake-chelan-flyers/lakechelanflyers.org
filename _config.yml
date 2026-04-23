@@ -44,4 +44,10 @@ defaults:
       author_profile: false
       show_date: false
 
+footer:
+  links:
+    - label: "Source"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lake-chelan-flyers/lakechelanflyers.org"
+
 # Navigation defined in _data/navigation.yml
