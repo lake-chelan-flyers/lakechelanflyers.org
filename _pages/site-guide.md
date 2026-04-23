@@ -12,7 +12,13 @@ Last Revision: April 22, 2026
 
 Chelan Butte is a world-renowned freeflight site and has a long history of hosting national competitions. Experienced cross-country pilots enjoy the varied terrain: flatlands to the south and east, mountains to the north and west. Chelan can offer a quick winter sled ride, a short XC flight up the lake to Manson, an epic flight to Idaho, and everything in between.
 
-Access to Chelan Butte by pilots is by agreement with WA DNR, and access to our main landing fields is by agreement with Chelan PUD. Please help us maintain good relationships with these entities by reading and following the rules and guidelines here, and by getting an in-person site intro from someone familiar with the site. You can connect with local pilots on [Telegram](https://t.me/+E4TXaye8vSszNWNh) or [Facebook](https://www.facebook.com/lakechelanflyers/), or by [contacting the club](/contact).
+Access to Chelan Butte by pilots is by agreement with WA DNR, and access to our
+main landing fields is by agreement with Chelan PUD. Please help us maintain
+good relationships with these entities by reading and following the rules and
+guidelines here, and by getting an in-person site intro from someone familiar
+with the site. You can connect with local pilots on
+[Telegram](https://t.me/+E4TXaye8vSszNWNh) or by [contacting the
+club](/contact/).
 
 ## Requirements
 
