@@ -8,8 +8,8 @@ permalink: /join-the-club/
 
 Join the club in two easy steps:
 
-1. Fill out our [membership form](https://forms.gle/3j9c9kSSDVGbBoCe9).
-2. [Pay the annual club dues ($30) through PayPal](https://www.paypal.com/ncp/payment/6AMQYVP954Q62).
+[Membership Form](https://forms.gle/3j9c9kSSDVGbBoCe9){: .btn .btn--primary}
+[Dues Payment](https://www.paypal.com/ncp/payment/6AMQYVP954Q62){: .btn .btn--primary}
 
 As a club we are responsible for the maintenance and insurance of the Chelan Butte Flying site and adjacent landing sites. We work with several public landowners to ensure continued access to these lands for freeflight. Your dues help us cover the costs involved in keeping this incredible flying site open!
 
