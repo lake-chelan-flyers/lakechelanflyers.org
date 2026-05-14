@@ -16,4 +16,5 @@ for more information.
 
 [Site Guide](/site-guide/){: .btn .btn--light-outline .btn--large}
 [Join the Club](/join-the-club/){: .btn .btn--light-outline .btn--large}
+[Weather Resources](/weather/){: .btn .btn--light-outline .btn--large}
 
