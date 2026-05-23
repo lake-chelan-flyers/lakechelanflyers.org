@@ -161,7 +161,7 @@ The Lone Pine LZ next to Chelan Butte Road that appeared in previous site guides
 
 ### Cross-Country LZ: Chelan Airport (Closed)
 
-The Chelan Airport LZ, located at [47.8629, -119.9447](https://goo.gl/maps/Sskk6A4RA3pSFCLy6), is no longer supported by Lake Chelan Flyers. It was used infrequently and is not the most appropriate place for XC pilots to land on or near the airport. If you are planning an XC flight in that direction and would like to discuss possible landing fields, please contact the club (see the beginning of this site guide).
+The Chelan Airport LZ, located at [47.8629, -119.9447](https://goo.gl/maps/Sskk6A4RA3pSFCLy6), is no longer supported by Lake Chelan Flyers. It was used infrequently and is not the most appropriate place for XC pilots to land on or near the airport. If you are planning an XC flight in that direction and would like to discuss possible landing fields, please [contact the club](/contact/).
 
 ## XC Tips
 
