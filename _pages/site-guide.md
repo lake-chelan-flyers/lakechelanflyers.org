@@ -4,7 +4,7 @@ title: "Site Guide"
 permalink: /site-guide/
 ---
 
-Last Revision: April 22, 2026
+Last Revision: May 23, 2026
 
 ![Paraglider flying at Chelan Butte](/assets/images/Chelan-21.jpg)
 
@@ -63,6 +63,7 @@ Pilots are expected to assess hazards for themselves. The following is a summary
 *   As with most big-air sites, it's smart to connect up with a site-savvy pilot before heading up to fly. Better yet, plan your visit to coincide with one of many annual fly-ins or comps at the Butte. If you plan on flying at Chelan during the summer, be sure your launch and landing skills and your bump tolerance are in peak form. Launches can be extremely challenging, and the mid-day thermals tend to be strong and turbulent. If you're not an experienced mountain thermal pilot, you'll have more enjoyable flying if you plan your trip for autumn, when it's still soarable but not as intense. Pilots visiting mid-summer should consider flying before noon or in the evening, and enjoy the lake during the middle of the day.
 *   Winds are often strong in the late afternoon and evening.
 *   The closest landing zone is a 4.6:1 glide from launch. Spending too much altitude hoping for thermals can easily result in an out-landing. Pilots must consider this risk and be prepared to safely execute an out-landing if they are too low to make it back to an official LZ.
+*   **New in 2026:** There is a [communications tower](/comm-tower/) under construction to the NE of the Chelan Falls Park LZ. It will be tall enough to obstruct some atypical landing patterns.
 
 ![A dust devil wreaks havoc on assembled hang gliders](/assets/images/site-guide/dustdevil.jpg)
 
@@ -134,7 +135,7 @@ Glide to LZ: ~5.0:1 (to Junkyard LZ).
 **Wind Sock:** Flag and permanent wind sock at SE corner.
 
 **Description:** Chelan Falls Park is a multi-use public park maintained by Chelan County PUD.  Pilots may not land at this LZ when there is conflicting activity. Prior to flying, check [the schedule](https://www.chelanpud.org/departments/parksRecreation/chelanBallfieldSchedule.html) and inspect the landing area.  In the event of conflicting activity at Chelan Falls Park, plan to land at Gorge Road (Junkyard) LZ. **Land only in the designated area south of the soccer field.** Fly your downwind leg to the east of the field, as shown in the image below. Land well clear of other park users. Do not land at Beebe Bridge Park across the river.  
-**Obstructions:** Narrow landing approach with water, trees, buildings. Large power lines to the north. Parking lot adjacent to south end of LZ.
+**Obstructions:** Narrow landing approach with water, trees, buildings. Large power lines to the north. Parking lot adjacent to south end of LZ. [Communications tower](/comm-tower/) to the NW.
 
 ![Soccer field landing approach](/assets/images/site-guide/soccer-field.webp)
 
