@@ -5,7 +5,7 @@ permalink: /comm-tower/
 ---
 
 As of May 23, 2026, a 135 foot communications tower is currently under
-construction just to the NE of Chelan Falls Park. While it does not obstruct a
+construction just to the NW of Chelan Falls Park. While it does not obstruct a
 standard landing pattern, pilots must be aware of it as it could affect pilots
 coming in low or who are flying a non-standard pattern for congestion or other
 reasons.

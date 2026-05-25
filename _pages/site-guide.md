@@ -63,7 +63,7 @@ Pilots are expected to assess hazards for themselves. The following is a summary
 *   As with most big-air sites, it's smart to connect up with a site-savvy pilot before heading up to fly. Better yet, plan your visit to coincide with one of many annual fly-ins or comps at the Butte. If you plan on flying at Chelan during the summer, be sure your launch and landing skills and your bump tolerance are in peak form. Launches can be extremely challenging, and the mid-day thermals tend to be strong and turbulent. If you're not an experienced mountain thermal pilot, you'll have more enjoyable flying if you plan your trip for autumn, when it's still soarable but not as intense. Pilots visiting mid-summer should consider flying before noon or in the evening, and enjoy the lake during the middle of the day.
 *   Winds are often strong in the late afternoon and evening.
 *   The closest landing zone is a 4.6:1 glide from launch. Spending too much altitude hoping for thermals can easily result in an out-landing. Pilots must consider this risk and be prepared to safely execute an out-landing if they are too low to make it back to an official LZ.
-*   **New in 2026:** There is a [communications tower](/comm-tower/) under construction to the NE of the Chelan Falls Park LZ. It will be tall enough to obstruct some atypical landing patterns.
+*   **New in 2026:** There is a [communications tower](/comm-tower/) under construction to the NW of the Chelan Falls Park LZ. It will be tall enough to obstruct some atypical landing patterns.
 
 ![A dust devil wreaks havoc on assembled hang gliders](/assets/images/site-guide/dustdevil.jpg)
 
