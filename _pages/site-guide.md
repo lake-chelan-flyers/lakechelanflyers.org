@@ -4,7 +4,7 @@ title: "Site Guide"
 permalink: /site-guide/
 ---
 
-Last Revision: May 23, 2026
+Last Revision: May 25, 2026
 
 ![Paraglider flying at Chelan Butte](/assets/images/Chelan-21.jpg)
 
