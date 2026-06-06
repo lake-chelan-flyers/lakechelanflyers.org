@@ -11,6 +11,7 @@ conditions.
 
 - [LCF Weather Station](https://chelancam.soaringpotato.com/) (currently offline)
 - [WA DNR Panoramic Camera](https://wadnr.wildfirewatch.com/station/3290b7ab65ec4cc28b5d81308c04bc82)
+- [University of Oregon Camera](https://alertwest.live/cam-console/23455)
 
 ## Forecasts
 
