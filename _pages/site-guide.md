@@ -4,7 +4,7 @@ title: "Site Guide"
 permalink: /site-guide/
 ---
 
-Last Revision: May 25, 2026
+Last Revision: June 12, 2026
 
 ![Paraglider flying at Chelan Butte](/assets/images/Chelan-21.jpg)
 
@@ -47,7 +47,7 @@ club](/contact/).
 **Other use:** Open to the public for sightseeing, hiking, bicycling, and more. Chelan Butte is a fantastic viewpoint so it attracts some activity.  
 **Access:**
 
-*   Access to launch by vehicle is from US97A in the Lakeside are of Chelan. Turn uphill at Chelan Butte Road. Continue straight until nearly the top, where you will make a right turn to get to the launch area. The lower portion is paved, the upper portion is unimproved dirt/gravel. High clearance and 4WD is recommended. Please drive slowly, especially around the blind turns. Please carpool to keep traffic on the road to a minimum, and to avoid filling up the parking area on busy days. Road is typically accessible mid-April through the first snow of winter. Avoid the road when wet.
+*   Access to launch by vehicle is from US97A in the Lakeside area of Chelan. Turn uphill at Chelan Butte Road. Continue straight until nearly the top, where you will make a right turn to get to the launch area. The lower portion is paved, the upper portion is unimproved dirt/gravel. High clearance and 4WD is recommended. Please drive slowly, especially around the blind turns. Please carpool to keep traffic on the road to a minimum, and to avoid filling up the parking area on busy days. Road is typically accessible mid-April through the first snow of winter. Avoid the road when wet.
 *   Launch can also be accessed by [a hike](https://www.wta.org/go-hiking/hikes/chelan-butte), but it's grueling in the heat of summer. The trailhead is conveniently located across the street from the Junkyard LZ, so if conditions allow, you can land at your vehicle.
 
 ## Hazards
