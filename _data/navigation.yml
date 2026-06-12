@@ -1,9 +1,11 @@
 main:
   - title: "Site Guide"
     url: /site-guide/
-  - title: "Join the Club"
+  - title: "Spectators"
+    url: /spectators/
+  - title: "Membership"
     url: /join-the-club/
-  - title: "News & Events"
+  - title: "News"
     url: /news/
   - title: "Donate"
     url: /donate/
