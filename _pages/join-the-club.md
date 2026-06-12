@@ -20,4 +20,8 @@ ensure continued access to these lands for freeflight. Your dues help us cover
 the costs involved in keeping this incredible flying site open!
 
 Membership is valid for one full year. Renewing early will extend your
-expiration date by one year. Make sure to fill out the form every year!
+expiration date by one year. This will happen automatically based on your USHPA
+number, but if you are not an USHPA member please [contact us](/contact/) so
+that we can manually apply the extension.
+
+Please make sure to fill out the form every year!
