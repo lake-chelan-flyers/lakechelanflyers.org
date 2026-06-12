@@ -12,6 +12,8 @@ Join the club in two easy steps:
 [Dues Payment](https://www.paypal.com/ncp/payment/6AMQYVP954Q62){: .btn .btn--primary}
 
 
+Please make sure to fill out the form every year!
+
 **Annual Membership Dues: $30/year**
 
 As a club we are responsible for the maintenance and insurance of the Chelan
@@ -23,5 +25,3 @@ Membership is valid for one full year. Renewing early will extend your
 expiration date by one year. This will happen automatically based on your USHPA
 number, but if you are not an USHPA member please [contact us](/contact/) so
 that we can manually apply the extension.
-
-Please make sure to fill out the form every year!
